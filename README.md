@@ -1,0 +1,1 @@
+Basic App to upload and view posts using express, React, and mongoDB
