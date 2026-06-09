@@ -8,13 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Quetz",
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "cloudinary": "^2.10.0",
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "express": "^5.2.1",
+    "multer": "^2.1.1",
     "pg": "^8.21.0"
   },
   "devDependencies": {
