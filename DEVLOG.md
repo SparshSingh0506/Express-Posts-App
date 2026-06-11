@@ -52,3 +52,7 @@ Instagram-style social media application for learning purposes.
 # Day 5
 * Read and understood multer's working, reading docs and through AI
 * Tested image upload from postman to the backend server, by creating the multer middleware that handles the media upload.
+
+# Day 6
+* used cloudinary.uploader.upload_stream() api with node.js's Readable to upload the media buffer from multer as stream to cloudinary cloud, and get url response.
+* set up post.service.ts to inject the url along with other fields in the db and return it as a response.
